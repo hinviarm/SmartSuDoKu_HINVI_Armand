@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartSuDoKu_HINVI_Armand</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_jeu">activity_jeu</string>
+    <string name="title_activity_activity_about">activity_about</string>
+    <string name="title_activity_activity_choix">activity_choix</string>
+
+</resources>
